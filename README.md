@@ -8,3 +8,11 @@
 :smile: :sunny:
 
 ![nkust](nkust.png "nkust")
+
+- [ ] todo list
+- [x] done
+
+```python
+s = "Python Syntax Highlighting"
+print(s)
+'''
