@@ -26,7 +26,7 @@ digraph {
 }
 ```
 
-
+![pert](PERT.png "pert")
 
 
 
