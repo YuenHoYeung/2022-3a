@@ -1,3 +1,4 @@
+```javascript
 abstract class CShape{
     protected String color;
     public void setColor(String str){
@@ -23,3 +24,4 @@ class CTriangle extends CShape{
     }
    
 }
+```
