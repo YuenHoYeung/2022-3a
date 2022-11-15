@@ -1,5 +1,5 @@
 ```java
-###CShape.java        
+### CShape.java        
 abstract class CShape{
     protected String color;
     public void setColor(String str){
@@ -10,7 +10,7 @@ abstract class CShape{
 }
 
            
-###CTriangle.java
+### CTriangle.java
 class CTriangle extends CShape{
     double ca, cb, cc;
     public CTriangle(double a, double b, double c){
